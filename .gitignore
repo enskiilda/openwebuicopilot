@@ -18,3 +18,6 @@ coverage/
 .idea/
 .vscode/
 *.sw?
+vite-main/node_modules/
+vite-main/.svelte-kit/
+vite-main/build/
